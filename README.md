@@ -1,4 +1,4 @@
-Jamie Vullo ClockApp
+Jamie Vullo - ClockApp
 
 # ClockApp
 A web application made using JavaScript
@@ -17,7 +17,7 @@ This is a single page application that produces a digital "ticking" clock with D
 This application utilizes JavaScript, HTML, and CSS.
 
 ### Setup
-* To run this web application you must clone it from git@github.com:jamievullo/ClockApp.git ClockApp
+* To run this web application you must clone it from git@github.com:jamievullo/ClockApp.git
 
 ### Frontend setup
 * On command line type: 
@@ -36,10 +36,6 @@ npm install
 ```
 npm start 
 ```
-* this will start the server on localhost:3000
-
-
-
 
 ### Sources and Resources Used
 * https://stackoverflow.com x 2000 ;)
